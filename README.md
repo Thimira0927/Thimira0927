@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Thimira
 
-<!--
-**Thimira0927/Thimira0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🌱 Currently learning JavaScript & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🌤 Weather App
+A weather application built using HTML, CSS, and JavaScript.
+
+Features:
+- Search weather by city
+- Current temperature
+- 5-day forecast
+- Dark mode
+- Video background
+
+🔗 Live Demo  
+https://thimira0927.github.io/weather-App/
+
+---
+
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- REST API
+- Git & GitHub
+
+---
+
+## 📫 Connect with me
+
+LinkedIn: (ඔයාගේ LinkedIn link එක)
+
+GitHub: https://github.com/Thimira0927
