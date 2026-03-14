@@ -34,6 +34,6 @@ https://thimira0927.github.io/weather-App/
 
 ## 📫 Connect with me
 
-LinkedIn: (ඔයාගේ LinkedIn link එක)
+LinkedIn: (linkedin.com/in/thimira-vishwajith-bandara-000930280/)
 
 GitHub: https://github.com/Thimira0927
