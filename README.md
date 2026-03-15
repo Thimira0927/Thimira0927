@@ -1,39 +1,28 @@
 # Hi 👋 I'm Thimira
 
 💻 Frontend Developer  
-🌱 Currently learning JavaScript & Web Development  
+🌱 Learning Web Development  
 
 ---
 
 ## 🚀 Projects
 
-### 🌤 Weather App
-A weather application built using HTML, CSS, and JavaScript.
-
-Features:
-- Search weather by city
-- Current temperature
-- 5-day forecast
-- Dark mode
-- Video background
-
-🔗 Live Demo  
+### Weather App
+Live Demo:
 https://thimira0927.github.io/weather-App/
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
 - HTML
 - CSS
 - JavaScript
-- REST API
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-## 📫 Connect with me
-
-LinkedIn: (linkedin.com/in/thimira-vishwajith-bandara-000930280/)
+## 📫 Contact
 
 GitHub: https://github.com/Thimira0927
